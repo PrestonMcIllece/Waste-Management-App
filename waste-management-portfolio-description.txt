@@ -1,0 +1,13 @@
+Portfolio Description
+
+Our Waste Management application that my group in CMPT 307 built has been chosen to include
+in my portfolio because it was a project that really forced myself, as well as my entire group
+to develop creative and effective problem solving skills. This application was built for the 
+Environment Center of Westminster College so that they could better keep track of their waste 
+data. The application consisted of a Java/Swing front end and an sqlite backend. This project was
+the first time that I had built a project with a database as well as my first time building an
+application of this size. Additionally, I was unfamiliar with the Swing framework as well as 
+sqlite before the project which is why my problem solving skills developed so much from this
+project. Lastly, I've chosen to include this project in my portfolio because I'm very proud
+of how the application turned out. Our group worked very well together and I think that shows
+in the final product.
